@@ -5489,20 +5489,20 @@ var app = function() {
                 url: "https://soundcloud.com/denis-medvedev-2/nujabes-feather",
                 answer: "Nujabes - Feather"
             }, {
-                url: "https://soundcloud.com/dltzk/your-clothes",
-                answer: "dltzk - your clothes"
+                url: "https://soundcloud.com/eriased/dltzk-whats-my-age-again",
+                answer: "dltzk - what's my age again ?"
             }, {
                 url: "https://soundcloud.com/antiupmusic/anti-up-pizza",
                 answer: "Anti Up - Pizza"
             }, {
-                url: "https://soundcloud.com/rihanna/disturbia",
-                answer: "Rihanna - Disturbia"
+                url: "https://soundcloud.com/fax-gang/breathe2-in-out",
+                answer: "Fax Gang - Breathe2 (In/Out)"
             }, {
                 url: "https://soundcloud.com/user-484469735/hey-space-cadet-beast-monster-thing-in-space-1",
                 answer: "Car Seat Headrest - Hey, Space Cadet! (Beast Monster Thing in Space)"
             }, {
-                url: "https://soundcloud.com/100gecs/745-sticky",
-                answer: "100 gecs - 745 sticky"
+                url: "https://soundcloud.com/fixed46/burial-endorphin",
+                answer: "Burial - Near Dark"
             }, {
                 url: "https://soundcloud.com/fearlessrecords/breathe-carolina-blackout",
                 answer: "Breathe Carolina - Blackout"
@@ -5516,8 +5516,8 @@ var app = function() {
                 url: "https://soundcloud.com/charlixcx/beg-for-you-feat-rina-sawayama",
                 answer: "Charli XCX - Beg For You"
             }, {
-                url: "https://soundcloud.com/crystal-castles/vanished",
-                answer: "Crystal Castles - Vanished"
+                url: "https://soundcloud.com/p4rkr/from-paris-with-love",
+                answer: "osquinn - from paris with love"
             }, {
                 url: "https://soundcloud.com/biot13013/neros-day-at-disneyland-4",
                 answer: "Nero's Day At Disneyland - Child Protective Services Theme Song"
