@@ -5480,6 +5480,9 @@ var app = function() {
                 url: "https://soundcloud.com/ween/transdermal-celebration",
                 answer: "Ween - Transdermal Celebration"
             }, {
+                url: "https://soundcloud.com/shanty-vlogs/parannoul-beautiful-world",
+                answer: "Parannoul - Beautiful World"
+            }, {
                 url: "https://soundcloud.com/pinkpantheress/pain",
                 answer: "PinkPantheress - Pain"
             }, {
